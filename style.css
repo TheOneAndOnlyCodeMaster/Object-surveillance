@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+}
+#startButton, #objectAmount, #status{
+    font-size: 18px;
+}
+.footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color:lightgreen;
+    text-align: center;
+    line-height: 3;
+    border: darkolivegreen ridge 5px;
+    color: darkred;
+}
+canvas{
+border:unset royalblue 7px ;
+box-shadow: 3px 7px 20px darkblue;
+border-radius: 15px;
+margin-top: 130px;
+}
